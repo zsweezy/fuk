@@ -1,5 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZboMtGpNw8_Uo9q-hmhuCy6iRcYCD-M9CxLlZH_-UWQ&s" group-title="Filmes e Séries",THEM
+#EXTINF:-1 tvg-id="SERIES" tvg-logo="" group-title="Filmes e Séries",THEM
+https://s25.pandafiles.com:183/d/4a3ycso526kwoyapvwf3iyg2m37kqe57mmdmojmaqq7lyoa5cxddhdvbjgw4xxa2igbqe436/Them.S01E01.MP4.DUB.BaixarSeriesMP4.Club.mp4
+
+#EXTINF:-1 tvg-id="SERIES" tvg-logo="" group-title="Filmes e Séries",THEM
 https://apiblogger.xyz/blogger/video-play.mp4/?contentId=f2e89371e3e78136
